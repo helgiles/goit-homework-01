@@ -1,1 +1,1 @@
-# Study
+# goit-homework-01
